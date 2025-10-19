@@ -6,7 +6,7 @@ import time
 LAT = 7.3775   # Ibadan Latitude
 LON = 3.9470   # Ibadan Longitude
 YEAR = 2024
-OUT_FILE = "oyo_weather_2024.csv"
+OUT_FILE = "./weather_datasets/oyo_weather_2024.csv"
 
 BASE_URL = "https://power.larc.nasa.gov/api/temporal/hourly/point"
 
